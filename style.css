@@ -3,3 +3,138 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+body{
+  background-color: #D4A76A;
+  margin: 0;
+  padding: 0;
+}
+.primary-header {
+  justify-content: space-around;
+  display: flex;
+  background-color: #FFDBAA;
+  border: 1px solid black;
+}
+h6{
+  margin: 1em;
+  color: #553100;
+  font-size: 10em ;
+}
+.button_1{
+  margin-top:1em;
+  margin: 1em;
+  color: white;
+  background-color: #805215;
+  font-size: 6em;
+  width: 5em;
+  height: 7vh;
+  cursor: pointer;
+}
+.wrapper{
+  justify-content: space-around;
+  display: flex;
+  text-align: center;
+}
+.outer{
+  margin-top: 6em;
+  border: 1px solid black;
+  background-color: white;
+  width: 25vw;
+}
+h3{
+  font-size: 6em;
+}
+p{
+  font-size: 5em;
+}
+.other_button{
+  justify-content: space-around;
+  margin-bottom: 1em;
+  font-size: 6em;
+  width: 90%;
+  height: 7vh;
+  color: white;
+  background-color: #805215;
+  font-size: 5em;
+  cursor: pointer;
+
+
+}
+.wrapper_other{
+ margin-top: 4em;
+ justify-content: space-around;
+ display: flex;
+}
+.outer_other{
+  border: 1px solid black;
+  background-color: white;
+  width: 95vw;
+  font-size: 18px;
+  text-align: center;
+}
+.button_3{
+  margin: 1em;
+  color: white;
+  background-color: #805215;
+  width: 90%;
+  height: 7vh;
+  font-size: 5em;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* h1 {
+  color: #553100;
+}
+.button_1{
+  background-color: #805215;
+  cursor: pointer;
+  width: 10%;
+  height: 4vh;
+  font-size: 20px
+}
+
+
+.wrapper{
+  justify-content: space-around;
+  display: flex;
+  position: fixed;
+  bottom: 70%;
+}
+.wrapper_other{
+  justify-content: space-around;
+  display: flex;
+
+}
+.outer {
+  border: 1px solid black;
+  width: 25%;
+  height: 50%;
+  background-color: white;
+
+  text-align: center;
+}
+.outer_other{
+  border: 1px solid black;
+  width: 80%;
+  text-align: center;
+  background-color: white;
+  position: fixed ;
+  bottom: 20%
+}
+button{
+  background-color: #805215;
+  color: white;
+  cursor: pointer;
+  width: 60%;
+  height: 30%;
+} */
