@@ -16,7 +16,7 @@ body{
 }
 h6{
   /* margin-right: 20em; */
-  margin: 2.4em 7em 0em 0em;
+  margin: 2.4em 5em 0em 0em;
   color: #553100;
   font-size: 2.5em ;
 }
@@ -25,7 +25,7 @@ h6{
   color: white;
   background-color: #805215;
   font-size: 1em;
-  width: 8em;
+  width: 8vw;
   height: 6vh;
   cursor: pointer;
 }
@@ -55,8 +55,6 @@ p{
   background-color: #805215;
   font-size: 1.5em;
   cursor: pointer;
-
-
 }
 .wrapper_other{
  margin-top: 4em;
@@ -79,9 +77,3 @@ p{
   font-size: 1.5em;
   cursor: pointer;
 }
-
-
-
-
-
-/
